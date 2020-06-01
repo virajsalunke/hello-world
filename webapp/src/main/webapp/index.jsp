@@ -5,8 +5,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<<<<<<< HEAD
 <title>Hello World Java EE</title>
-    <h1>Hello JSP and Servlet!</h1>
+
+    <h1>Hello JSP and Servlet !!!!!!!! </h1>
+    <h2> NOW DEPLOYED via JENKINS > ANSIBLE > TOMCAT. </h2>
+
 </body>
 </html>
