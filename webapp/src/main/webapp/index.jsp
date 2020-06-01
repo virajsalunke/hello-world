@@ -7,11 +7,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <<<<<<< HEAD
 <title>Hello World Java EE</title>
-=======
-<title>VIRAJ</title>
->>>>>>> 06476c45b68b80c92754340a5d165c15073b7d4b
-</head>
-<body>
     <h1>Hello JSP and Servlet!</h1>
 </body>
 </html>
