@@ -8,7 +8,8 @@
 <title>Hello World Java EE</title>
 
     <h1>Hello JSP and Servlet !!!!!!!! </h1>
-    <h2> NOW DEPLOYED via JENKINS > ANSIBLE > TOMCAT. </h2>
+    <h2> NOW CODE DEPLOYED via JENKINS > ANSIBLE > TOMCAT on 01 June 11:45 PM 2020 </h2>
+    <h2> NOW DOCKER IMAGE DEPLOYED via JENKINS > DOCKER on 02 June 11:28 AM 2020 </h2>
 
 </body>
 </html>
