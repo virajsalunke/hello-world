@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Hello World Java EE</title>
+<title>VIRAJ SALUNKE</title>
 
     <h1>Hello JSP and Servlet !!!!!!!! </h1>
     <h2> NOW CODE DEPLOYED via JENKINS > ANSIBLE > TOMCAT on 01 June 11:45 PM 2020 </h2>
